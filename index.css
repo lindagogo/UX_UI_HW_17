@@ -1,0 +1,100 @@
+nav {
+  height: 100px;
+  background-color: #F2F4F4;
+}
+.inline-block {
+  padding: 15px;
+  display: inline-block;
+
+}
+.left {
+  float: left;
+  height: 350px;
+  background-color: #08757A;
+  width: 30%;
+  text-align: left;
+}
+.right {
+  float: left;
+  background-color: #F2F4F4;
+  height: 200px;
+  width: 70%;
+  position: relative;
+  display: block;
+  margin-top: 70px;
+}
+
+.wrapper{
+  height: 350px;
+}
+  
+
+
+.card {
+  display: inline-block;
+  background-color: #C6C6C6;
+  border-radius: 5px;
+  height: 200px;
+  width: 150px;
+  margin: 35px;
+  margin-top: 50px;
+}
+.block_element{
+  position: absolute;
+  left: 70%;
+  margin-top: 30px
+
+}
+.logo{
+  object-fit: contain;
+  margin-top: 10px;
+  position: absolute;
+  left: 20px;
+  height:86px
+}
+.paragraph {
+  color:white;
+  font-size: 50px;
+  padding-left: 20px; 
+}
+.header-paragraph {
+ margin: center ; 
+ font-size: 30px;
+ padding-left: 20px;
+ text-align: left;
+}
+.footermain {
+  align-items: bottom;
+  width:vw;
+  text-align: left;
+  background-color: #FCEFC7;
+}
+.footer {
+ position: relative;
+
+
+
+}
+.footer-title {
+  
+  font-size: 30px; 
+  
+}
+.footer-copy {
+  font-size: 20px;
+
+}
+.footermain{
+  width: 100%;  
+  object-position: bottom;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+
+ .icons1{
+  padding: 20px;
+  align-items: center;
+ }
+ 
